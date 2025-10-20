@@ -1,0 +1,17 @@
+{
+  "node": {
+    "00d1052d160f29fa1e87886c65a9bb58bab341f317": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/currency-converter.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "kO1X826H8k6owvjkB+Zw6QWBHq8D07rzwCkdeQzHsmc="
+}
